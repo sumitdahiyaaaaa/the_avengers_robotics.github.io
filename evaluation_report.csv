@@ -1,0 +1,2 @@
+Image,Ground Truth,Predictions,TP,FP,FN,Precision,Recall
+img_00001.bmp,5,26,3,23,2,0.115,0.6
